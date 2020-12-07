@@ -64,6 +64,7 @@ body{
     overflow: hidden;
 }
 .foto-perfil img{
+    border-radius: 50%;
     height: 7rem;
 }
 .instagram-login{
